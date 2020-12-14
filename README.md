@@ -1,9 +1,10 @@
 # pysteps-basic-fin-analysis
-:sparkles: :sparkles: :sparkles:
+:sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles:
 # Use Your Computer to Make Informed Decisions in Stock Trading
 
 **Intro:**
  These articles are intended to guide a delevoper, analyst, or an individual investor with some programming experience on how to use Python and  Google Colab to get a financial data, analyse it, and test the investment hypothesis at scale
+:sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles:
 
 **Medium posts:**
 * :one:	Part 1: [Python Environment](https://realmistic.medium.com/use-your-computer-to-make-informed-decisions-in-stock-trading-practical-introduction-part-1-e9bbbaa95fee) 
