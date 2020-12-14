@@ -3,7 +3,9 @@
 # Use Your Computer to Make Informed Decisions in Stock Trading
 
 **Intro:**
+-------------------------------------
  These articles are intended to guide a delevoper, analyst, or an individual investor with some programming experience on how to use Python and  Google Colab to get a financial data, analyse it, and test the investment hypothesis at scale
+------------------------------------- 
 :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles:
 
 **Medium posts:**
