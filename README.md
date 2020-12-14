@@ -1,5 +1,6 @@
 # pysteps-basic-fin-analysis
 :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles:
+
 # Use Your Computer to Make Informed Decisions in Stock Trading
 
 **INTRO**
