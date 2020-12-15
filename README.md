@@ -15,7 +15,7 @@
 * :three:	Part 3: [Sentiment Analysis of Financial News](https://realmistic.medium.com/use-your-computer-to-make-informed-decisions-in-stock-trading-practical-introduction-part-3-7c520cf32d39) 
 * :four:	Part 4: [Scraping Earnings Per Share (EPS)](https://realmistic.medium.com/use-your-computer-to-make-informed-decisions-in-stock-trading-practical-introduction-part-4-8d79b45db095) 
 * :five:	Part 5: [Developing a Short Term Investment Strategy Based on Earnings-Per-Share(EPS) Data](https://realmistic.medium.com/use-your-computer-to-make-informed-decisions-in-stock-trading-practical-introduction-part-1-e9bbbaa95fee) 
-* :six:	Part 6: [to be published soon] 
+* :six:	Part 6: [Boom of IPOs in 2020](https://realmistic.medium.com/use-your-computer-to-make-informed-decisions-in-stock-trading-practical-introduction-part-6-364a780bb30b)  
 
 
 **COLAB NOTEBOOKS**
