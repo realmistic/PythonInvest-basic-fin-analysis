@@ -20,7 +20,10 @@
 
 **COLAB NOTEBOOKS**
  
- All notebooks with the code are published here as well. Please copy them and try to run.
-  I'm happy to hear any ideas to improve or just that you find this work useful.
+ All notebooks with the code are published in the colab_notebooks folder. Please copy them and try to run.
+ I'm happy to hear any idea to improve the code or just that you find this work useful.
+
+**STATIC**
+ Some colab notebooks have dumps of graphs to the JSON format (Plotly), which is inserted to the website.
 
 Ivan
