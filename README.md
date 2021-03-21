@@ -1,4 +1,4 @@
-# pysteps-basic-fin-analysis
+# PythonInvest-basic-fin-analysis
 :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles:
 
 # Use Your Computer to Make Informed Decisions in Stock Trading
@@ -16,6 +16,7 @@
 * :four:	Part 4: [Scraping Earnings Per Share (EPS)](https://realmistic.medium.com/use-your-computer-to-make-informed-decisions-in-stock-trading-practical-introduction-part-4-8d79b45db095) 
 * :five:	Part 5: [Developing a Short Term Investment Strategy Based on Earnings-Per-Share(EPS) Data](https://realmistic.medium.com/use-your-computer-to-make-informed-decisions-in-stock-trading-practical-introduction-part-1-e9bbbaa95fee) 
 * :six:	Part 6: [Boom of IPOs in 2020](https://realmistic.medium.com/use-your-computer-to-make-informed-decisions-in-stock-trading-practical-introduction-part-6-364a780bb30b)  
+* 7️⃣:	Part 7: [Comparing IPOs from late 2020 vs. early 2021](https://realmistic.medium.com/use-your-computer-to-make-informed-decisions-in-stock-trading-practical-introduction-part-7-4faae9f4c209)  
 
 
 **COLAB NOTEBOOKS**
