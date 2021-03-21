@@ -7,6 +7,9 @@
 -------------------------------------
  These articles are intended to guide a delevoper, analyst, or an individual investor with some programming experience on how to use Python and  Google Colab to get a financial data, analyse it, and test the investment hypothesis at scale
 ------------------------------------- 
+
+The Colab code is used in the blog [PythonInvest]https://pythoninvest.com. Please refer to the Website or posts on Medium to get the most detailed explanation.
+
 :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles:
 
 **MEDIUM POSTS**
@@ -27,4 +30,5 @@
 **STATIC**
  Some colab notebooks have dumps of graphs to the JSON format (Plotly), which is inserted to the website.
 
-Ivan
+Cheers,
+PythonInvest team
