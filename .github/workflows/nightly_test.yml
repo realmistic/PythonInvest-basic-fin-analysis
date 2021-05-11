@@ -1,8 +1,8 @@
 name: NightlyTestJob
-on: [push]
-#on:
-#  schedule:
-#    - cron:  '30 5,13,21 * * *'
+#on: [push]
+on:
+  schedule:
+    - cron:  '30 5 * * *'
 jobs:
   Test-GitHUb-Actions:
     runs-on: ubuntu-latest
@@ -26,6 +26,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           find . -name "*TSLA_news_sentiments_*.csv" -exec git add {} \; && git commit -m "update news sentiment"
+          git push
       - run: echo "The ${{ github.repository }} repository has been cloned to the runner."
       - run: echo "The workflow is now ready to test your code on the runner."
       - run: echo "🍏 This job's status is ${{ job.status }}."
