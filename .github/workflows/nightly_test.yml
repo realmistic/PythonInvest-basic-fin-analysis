@@ -1,8 +1,8 @@
 name: NightlyTestJob
-on: [push]
-#on:
-#  schedule:
-#    - cron:  '30 5,13,21 * * *'
+#on: [push]
+on:
+  schedule:
+    - cron:  '30 5,13,21 * * *'
 jobs:
   Test-GitHUb-Actions:
     runs-on: ubuntu-latest
