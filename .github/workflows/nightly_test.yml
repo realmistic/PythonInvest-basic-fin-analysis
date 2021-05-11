@@ -1,8 +1,8 @@
 name: NightlyTestJob
-#on: [push]
-on:
-  schedule:
-    - cron:  '30 5,13,21 * * *'
+on: [push]
+#on:
+#  schedule:
+#    - cron:  '30 5,13,21 * * *'
 jobs:
   Test-GitHUb-Actions:
     runs-on: ubuntu-latest
@@ -20,7 +20,9 @@ jobs:
         run: |
           ls ${{ github.workspace }}/colab_notebooks
       - name: Run notebooks
-        run: jupyter nbconvert --to notebook --execute ${{ github.workspace }}/yt_videos_colabs/PythonInvest_com_2_Sentiment_Analysis_of_Financial_News_.ipynb
+        run: jupyter nbconvert --to notebook --execute ${{ github.workspace }}/yt_videos_colabs/PythonInvest_com_2_2_EveryDay_Sentiment_Analysis_of_Financial_News_.ipynb
+      - name: Push news
+        run: find . -name "*TSLA_news_sentiments_*.csv" -exec git add {} \; && git commit -m "update news sentiment"
       - run: echo "The ${{ github.repository }} repository has been cloned to the runner."
       - run: echo "The workflow is now ready to test your code on the runner."
       - run: echo "🍏 This job's status is ${{ job.status }}."
