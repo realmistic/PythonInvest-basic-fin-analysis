@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: '3.8'
       - name: Install python modules
-        run: pip install nbconvert jupyter yfinance pandas-datareader matplotlib
+        run: pip install nbconvert jupyter yfinance pandas-datareader matplotlib nltk
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}/colab_notebooks
