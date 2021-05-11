@@ -15,12 +15,12 @@ jobs:
         with:
           python-version: '3.8'
       - name: Install python modules
-        run: pip install nbconvert jupyter yfinance
+        run: pip install nbconvert jupyter yfinance pandas-datareader
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}/colab_notebooks
-#      - name: Run notebooks
-#        run: jupyter nbconvert --to notebook --execute ${{ github.workspace }}/colab_notebooks/Part2_Finance_APIs_overview.ipynb
+     - name: Run notebooks
+        run: jupyter nbconvert --to notebook --execute ${{ github.workspace }}/yt_videos_colabs/PythonInvest_com_1_Python_Financial_Data_APIs_and_visualisation.ipynb
       - run: echo "The ${{ github.repository }} repository has been cloned to the runner."
       - run: echo "The workflow is now ready to test your code on the runner."
       - run: echo "🍏 This job's status is ${{ job.status }}."
