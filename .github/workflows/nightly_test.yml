@@ -19,7 +19,7 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}/colab_notebooks
-     - name: Run notebooks
+      - name: Run notebooks
         run: jupyter nbconvert --to notebook --execute ${{ github.workspace }}/yt_videos_colabs/PythonInvest_com_1_Python_Financial_Data_APIs_and_visualisation.ipynb
       - run: echo "The ${{ github.repository }} repository has been cloned to the runner."
       - run: echo "The workflow is now ready to test your code on the runner."
