@@ -1,8 +1,9 @@
 name: NightlyTestJob
+on: workflow_dispatch
 #on: [push]
-on:
-  schedule:
-    - cron:  '30 1 * * *'
+#on:
+#  schedule:
+#    - cron:  '30 1 * * *'
 jobs:
   Test-GitHUb-Actions:
     runs-on: ubuntu-latest
