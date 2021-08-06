@@ -30,5 +30,5 @@ The Colab code is used in the blog [PythonInvest](https://pythoninvest.com). Ple
 **STATIC**
  Some colab notebooks have dumps of graphs to the JSON format (Plotly), which is inserted to the website.
 
-Cheers,
+Cheers, <br>
 PythonInvest team
