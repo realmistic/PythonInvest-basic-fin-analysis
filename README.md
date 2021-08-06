@@ -13,14 +13,14 @@ The Colab code is used in the blog [PythonInvest](https://pythoninvest.com). Ple
 :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles:
 
 **MEDIUM POSTS**
-* :one:	Part 1: [Python Environment](https://pythoninvest.com/long-read/python-environment) 
-* :two:	Part 2: [Exploring Finance APIs](https://pythoninvest.com/long-read/exploring-finance-apis) 
-* :three:	Part 3: [Sentiment Analysis of Financial News](https://pythoninvest.com/long-read/sentiment-analysis-of-financial-news) 
-* :four:	Part 4: [Scraping Earnings Per Share (EPS)](https://pythoninvest.com/long-read/scraping-earnings-per-share-eps) 
-* :five:	Part 5: [Developing a Short Term Investment Strategy Based on Earnings-Per-Share(EPS) Data](https://pythoninvest.com/long-read/developing-short-term-investment-strategy-based-on-esp) 
-* :six:	Part 6: [Boom of IPOs in 2020](https://pythoninvest.com/long-read/boom-of-ipos-in-2020)  
-* 7️⃣	Part 7: [Comparing IPOs from late 2020 vs. early 2021](https://pythoninvest.com/long-read/comparing-ipos-from-late-2020-2021)  
-* 8️⃣ Part 8: [Practical Portfolio Optimisation](https://pythoninvest.com/long-read/practical-portfolio-optimisation)  
+* :one:	&nbsp;Part 1: [Python Environment](https://pythoninvest.com/long-read/python-environment) 
+* :two:	&nbsp;Part 2: [Exploring Finance APIs](https://pythoninvest.com/long-read/exploring-finance-apis) 
+* :three:	&nbsp;Part 3: [Sentiment Analysis of Financial News](https://pythoninvest.com/long-read/sentiment-analysis-of-financial-news) 
+* :four:	&nbsp;Part 4: [Scraping Earnings Per Share (EPS)](https://pythoninvest.com/long-read/scraping-earnings-per-share-eps) 
+* :five:	&nbsp;Part 5: [Developing a Short Term Investment Strategy Based on Earnings-Per-Share(EPS) Data](https://pythoninvest.com/long-read/developing-short-term-investment-strategy-based-on-esp) 
+* :six:	&nbsp;Part 6: [Boom of IPOs in 2020](https://pythoninvest.com/long-read/boom-of-ipos-in-2020)  
+* 7️⃣	&nbsp;Part 7: [Comparing IPOs from late 2020 vs. early 2021](https://pythoninvest.com/long-read/comparing-ipos-from-late-2020-2021)  
+* 8️⃣ &nbsp;Part 8: [Practical Portfolio Optimisation](https://pythoninvest.com/long-read/practical-portfolio-optimisation)  
 
 **COLAB NOTEBOOKS**
  
