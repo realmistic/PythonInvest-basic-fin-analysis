@@ -21,7 +21,7 @@ The Colab code is used in the blog [PythonInvest](https://pythoninvest.com). Ple
 * :six:	&nbsp;Part 6: [Boom of IPOs in 2020](https://pythoninvest.com/long-read/boom-of-ipos-in-2020)  
 * 7️⃣	&nbsp;Part 7: [Comparing IPOs from late 2020 vs. early 2021](https://pythoninvest.com/long-read/comparing-ipos-from-late-2020-2021)  
 * 8️⃣ &nbsp;Part 8: [Practical Portfolio Optimisation](https://pythoninvest.com/long-read/practical-portfolio-optimisation)  
-* 8️⃣ &nbsp;Part 9: [Macroeconomic Indicators Affecting Stock Market](https://pythoninvest.com/long-read/macro-indicators-affecting-stock-market)  
+* 9️⃣ &nbsp;Part 9: [Macroeconomic Indicators Affecting Stock Market](https://pythoninvest.com/long-read/macro-indicators-affecting-stock-market)  
 
 **COLAB NOTEBOOKS**
  
