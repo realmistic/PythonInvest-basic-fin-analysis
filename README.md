@@ -8,7 +8,7 @@
  These articles are intended to guide a delevoper, analyst, or an individual investor with some programming experience on how to use Python and  Google Colab to get a financial data, analyse it, and test the investment hypothesis at scale
 ------------------------------------- 
 
-The Colab code is used in the blog [PythonInvest](https://pythoninvest.com). Please refer to the Website or posts on Medium to get the most detailed explanation.
+The Colab code is used in the blog [PythonInvest](https://pythoninvest.com/blog). Please refer to the Website or posts on Medium to get the most detailed explanation.
 
 :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles:
 
@@ -23,13 +23,21 @@ The Colab code is used in the blog [PythonInvest](https://pythoninvest.com). Ple
 * 8️⃣ &nbsp;Part 8: [Practical Portfolio Optimisation](https://pythoninvest.com/long-read/practical-portfolio-optimisation)  
 * 9️⃣ &nbsp;Part 9: [Macroeconomic Indicators Affecting Stock Market](https://pythoninvest.com/long-read/macro-indicators-affecting-stock-market)  
 
-**COLAB NOTEBOOKS**
+**FOLDERS**
+
+  **colab_notebooks**
+   All notebooks with the code are published in the colab_notebooks folder. Please copy them and try to run.
+   I'm happy to hear any idea to improve the code or just that you find this work useful.
+
+  **static**
+   Some colab notebooks have dumps of graphs to the JSON format (Plotly), which is inserted to the website.
+
+  **news folder**
+    That was a test daily run of one of the notebooks using Github Workflows (check .github/workflows/ for details)
+  
+  **yt_videos_colabs**
+    Sometimes there is a redacted version (nomally, easier and smaller) of a main colab from an article, that I use in videos on the [PythonInvest YouTube channel](https://www.youtube.com/channel/UCZb99NG1IE75c5qH2mCuqVg). 
+
  
- All notebooks with the code are published in the colab_notebooks folder. Please copy them and try to run.
- I'm happy to hear any idea to improve the code or just that you find this work useful.
-
-**STATIC**
- Some colab notebooks have dumps of graphs to the JSON format (Plotly), which is inserted to the website.
-
 Cheers, <br>
 PythonInvest team
