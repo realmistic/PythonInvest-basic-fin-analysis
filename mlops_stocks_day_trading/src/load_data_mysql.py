@@ -1,40 +1,40 @@
 import pandas as pd
-
-import os
-from dotenv import (
-    load_dotenv,
-)  # FOR loading local secrets in .env files: https://www.realpythonproject.com/3-ways-to-store-and-read-credentials-locally-in-python/
-
-# databases
-import sqlite3
-import mysql.connector  # https://dev.mysql.com/doc/connector-python/en/connector-python-example-connecting.html
-from mysql.connector import errorcode
-
 import datetime
+
+# API finance data
 import yfinance as yf
 
-# data_sources CONSTANTS : TICKERS, etc.
-import data_sources
+# db connectivity
+from sqlalchemy import create_engine
+import pymysql
 
-# retry func() call for n times (default is 5)
-def retry(func, times=5):
-    for _ in range(times):
-        try:
-            return func()
-        except Exception as e:
-            print(e)
-            continue
+import os
 
+# FOR loading local secrets in .env files:
+# https://www.realpythonproject.com/3-ways-to-store-and-read-credentials-locally-in-python/
+from dotenv import load_dotenv
+
+# data_sources and utils
+import common.data_sources
+import common.utils
 
 # Data storage class
-class DataRepository:
+class DataRepositoryMySQL:
     tickers_df: pd.DataFrame = None  # main in-memory storage of tickers stats
     ALL_TICKERS: data_sources.TICKERS
 
     # CLASS CONSTRUCTOR
-    def __init__(self, db_path="data/tickers.db"):
+    def __init__(
+        self, db_user: str, db_pwd: str, db_database: str, db_port: int = 3306
+    ):
         self.ticker_df = None
         self.TICKERS = data_sources.TICKERS
+
+        # MYSQL : make a conn string for SQLAlchemy engine
+        conn_string = f"mysql+pymysql://{db_user}:{db_pwd}@localhost/{db_database}"
+        sqlEngine = create_engine(
+            conn_string, connect_args=dict(host="localhost", port=db_port)
+        )
 
         # SQLLITE3
         self.db_conn_sqlite = None
