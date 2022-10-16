@@ -32,9 +32,6 @@ The Colab code is used in the blog [PythonInvest](https://pythoninvest.com/blog)
 
   **static**
    Some colab notebooks have dumps of graphs to the JSON format (Plotly), which is inserted to the website.
-
-  **news folder**
-    That was a test daily run of one of the notebooks using Github Workflows (check .github/workflows/ for details)
   
   **yt_videos_colabs**
     Sometimes there is a redacted version (nomally, easier and smaller) of a main colab from an article, that I use in videos on the [PythonInvest YouTube channel](https://www.youtube.com/channel/UCZb99NG1IE75c5qH2mCuqVg). 
