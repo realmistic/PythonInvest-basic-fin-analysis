@@ -23,6 +23,9 @@ The Colab code is used in the blog [PythonInvest](https://pythoninvest.com/blog)
 * 8️⃣ &nbsp;Part 8: [Practical Portfolio Optimisation](https://pythoninvest.com/long-read/practical-portfolio-optimisation)  
 * 9️⃣ &nbsp;Part 9: [Macroeconomic Indicators Affecting Stock Market](https://pythoninvest.com/long-read/macro-indicators-affecting-stock-market)  
 * :one::zero: &nbsp;Part 10: [Passive Investing with ETFs in Europe](https://pythoninvest.com/long-read/passive-investing-with-etfs-europe)  
+* :one::one: &nbsp;Part 11: [2023 Update - Passive Investing with ETFs in Europe](https://pythoninvest.com/long-read/2023-passive-investing-with-etfs-europe)  
+* :one::two: &nbsp;Part 12: [All Weather Portfolio (of ETFs) with Crypto](https://pythoninvest.com/long-read/all-weather-portfolio-with-crypto)  
+* :one::three: &nbsp;Part 13: [Leveraging OpenAI's API for Financial News Summarization](https://pythoninvest.com/long-read/chatgpt-api-for-financial-news-summarization)  
 
 **FOLDERS**
 
