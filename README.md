@@ -26,6 +26,10 @@ The Colab code is used in the blog [PythonInvest](https://pythoninvest.com/blog)
 * :one::one: &nbsp;Part 11: [2023 Update - Passive Investing with ETFs in Europe](https://pythoninvest.com/long-read/2023-passive-investing-with-etfs-europe)  
 * :one::two: &nbsp;Part 12: [All Weather Portfolio (of ETFs) with Crypto](https://pythoninvest.com/long-read/all-weather-portfolio-with-crypto)  
 * :one::three: &nbsp;Part 13: [Leveraging OpenAI's API for Financial News Summarization](https://pythoninvest.com/long-read/chatgpt-api-for-financial-news-summarization)  
+* :one::four: &nbsp;Part 14: [Exploring Tech Indicators For Stocks and Crypto](https://pythoninvest.com/long-read/tech-indicators-on-crypto-and-stocks)
+* :one::five: &nbsp;Part 15: [2024 U.S. Economy Highlights & Dashboard Insights for Retail Investors](https://pythoninvest.com/long-read/2024-year-wrap-and-automatic-dashboard)
+* :one::six: &nbsp;Part 16: [Long-term Impactful Financial News with LLMs](https://pythoninvest.com/long-read/long-term-financial-news-using-llms)
+* :one::seven: &nbsp;Part 17: [Stock Screening Using Paid Data](https://pythoninvest.com/long-read/stock-screening-using-paid-data)
 
 **FOLDERS**
 
@@ -37,7 +41,7 @@ The Colab code is used in the blog [PythonInvest](https://pythoninvest.com/blog)
    Some colab notebooks have dumps of graphs to the JSON format (Plotly), which is inserted to the website.
   
   **yt_videos_colabs**
-    Sometimes there is a redacted version (nomally, easier and smaller) of a main colab from an article, that I use in videos on the [PythonInvest YouTube channel](https://www.youtube.com/channel/UCZb99NG1IE75c5qH2mCuqVg). 
+    Sometimes there is a redacted version (normally, easier and smaller) of a main colab from an article, that I use in videos on the [PythonInvest YouTube channel](https://www.youtube.com/channel/UCZb99NG1IE75c5qH2mCuqVg). 
 
  
 Cheers, <br>
